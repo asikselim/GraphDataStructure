@@ -1,2 +1,2 @@
 # GraphDataStructure
-Data structure with graph library.
+Graph data structure with Boost library.
